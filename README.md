@@ -3,8 +3,6 @@
 
 Current working on a LEGO MOC application that let's users upload their own photos and instructions to custom builds.
 
-I’m currently learning about Express, React, MongoDB, and Node.js.
-
 Love all things sports, movies, and LEGO.
 
 <h3 align="left">Languages and Tools:</h3>
