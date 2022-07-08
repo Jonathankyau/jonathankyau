@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Jonathan</h1>
 <h3 align="left">I'm a Full Stack Software Engineer at 100devs based in Torrance, CA</h3>
 
-Current working on a LEGO MOC application that let's users upload their own photos and instructions to custom builds.
+Current working on a Mental Wellness app to keep track of your mood, symptoms, and goals.
 
 Love all things sports, movies, and LEGO.
 
